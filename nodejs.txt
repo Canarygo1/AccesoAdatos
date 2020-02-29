@@ -1,0 +1,15 @@
+1 Mostrar tablas de la base de datos
+2 Insertar un registros
+3 Modificar un registro
+4 Eliminar un registro
+5 Buscar un registro
+6 Eliminar todos los registros
+7 Escribir desde nodejs a Archivo
+8 Escribir desde Archivo a nodejs
+9 Escribir desde nodejs a Mysql
+10 Escribir desde Mysql a nodejs
+11 Escribir desde nodejs a Hibernate
+12 Escribir desde Hibernate a nodejs
+13 Escribir desde MongoDb a nodejs
+14 Escribir desde Hibernate a nodejs
+15 Escribir desde nodejs a MongoDb

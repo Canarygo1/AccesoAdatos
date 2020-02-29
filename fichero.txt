@@ -1,0 +1,6 @@
+5;Roberto;Portero
+6;joselito;delantero
+7;jose;banquillo
+8;Alejandro;delantero
+9;MArcos;banquillo
+12;pepe;delantero

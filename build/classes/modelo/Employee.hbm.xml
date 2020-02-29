@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+	<class name="modelo.Jugador" table="jugadores">
+		<id name="Id" type="int">
+			<column name="id_jugador" />
+			<generator class="increment" />
+		</id>
+		<property name="nombreJugador" type="string">
+			<column name="nombre" length="20" not-null="true" />
+		</property>
+                <property name="posicionJugador" type="string">
+                        <column name="posicion" length="20" not-null="true" />
+                </property>
+	</class>
+
+</hibernate-mapping>

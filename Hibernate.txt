@@ -1,0 +1,8 @@
+1 Mostrar tablas de la base de datos
+2 Insertar un registros
+3 Modificar un registro
+4 Eliminar un registro
+5 Escribir desde Hibernate a Archivo
+6 Escribir desde Archivo a Hibernate
+7 Escribir desde Hibernate a Mysql
+8 Escribir desde Mysql a Hibernate

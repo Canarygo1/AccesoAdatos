@@ -1,0 +1,13 @@
+1 Mostrar tablas de la base de datos
+2 Insertar un registros
+3 Modificar un registro
+4 Eliminar un registro
+5 Escribir desde Php a Archivo
+6 Escribir desde Archivo a Php
+7 Escribir desde Php a Mysql
+8 Escribir desde Mysql a Php
+9 Escribir desde Php a Hibernate
+10 Escribir desde Hibernate a Php
+11 Escribir desde MongoDb a Php
+12 Escribir desde Hibernate a Php
+13 Escribir desde Php a MongoDb
